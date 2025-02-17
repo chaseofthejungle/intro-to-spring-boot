@@ -19,3 +19,5 @@ public class SampleController {
 ```
 
 Use of either Spring Initialzr (or a similar tool) or manual typing/specification by the developer will be assumed for further examples in this guide involving adding dependencies.
+  
+TODO: Add initial numbered sections for document and a Table of Contents.
