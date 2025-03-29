@@ -5,6 +5,7 @@
 1. [How Spring Boot Differs from Spring](#differences)
 2. [Spring Boot Actuator](#actuator)
 3. [Spring Initialzr](#initialzr)
+4. [Supplemental Resources](#supplemental)
   
 <hr />
   
@@ -40,3 +41,10 @@ public class SampleController {
 ```
 
 Use of either Spring Initialzr (or a similar tool) or manual typing/specification by the developer will be assumed for further examples in this guide involving adding dependencies.
+  
+<hr />
+  
+## 4. <a name="supplemental">Supplemental Resources</a>
+  
+* [Java Data Structure Leetcode Interview Questions](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions)  
+* [Java Quick Reference Guide](https://github.com/chaseofthejungle/java-quick-reference-guide)
