@@ -46,5 +46,6 @@ Use of either Spring Initialzr (or a similar tool) or manual typing/specificatio
   
 ## 4. <a name="supplemental">Supplemental Resources</a>
   
-* [Java Data Structure Leetcode Interview Questions](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions)  
-* [Java Quick Reference Guide](https://github.com/chaseofthejungle/java-quick-reference-guide)
+* *[Official Spring Boot Website](https://spring.io/projects/spring-boot)*
+* *[Java Data Structure Leetcode Interview Questions](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions)*
+* *[Java Quick Reference Guide](https://github.com/chaseofthejungle/java-quick-reference-guide)*
